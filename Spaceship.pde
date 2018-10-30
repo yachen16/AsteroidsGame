@@ -1,4 +1,4 @@
-class Spaceship //extends Floater  
+class Spaceship extends Floater//extends Floater  
 {   
     //your code here
 }
